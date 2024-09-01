@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C1_Blazor_Demo_DotNet8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\pages\\customer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\pages\\customer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\controller\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\controller\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\pages\\requestrework.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\pages\\requestrework.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\pages\\account.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\pages\\account.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\database\\oracleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\database\\oracleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\models\\viewmodels\\useraccountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\models\\viewmodels\\useraccountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\models\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\models\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|d:\\c1_blazor_demo_dotnet8\\c1_blazor_demo_dotnet8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57A8316A-F9F2-4182-ABE1-46B4060983E3}|C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8.csproj|solutionrelative:c1_blazor_demo_dotnet8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 464,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\Customer.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\Customer.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\Customer.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\Customer.razor",
+              "ViewState": "AQIAABMAAAAAAAAAAAAEwGgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T04:43:57.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestRework.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\RequestRework.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\RequestRework.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\RequestRework.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\RequestRework.razor",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:59:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Program.cs",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Program.cs",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Program.cs",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:58:31.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Controller\\DashboardController.cs",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Controller\\DashboardController.cs",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Controller\\DashboardController.cs",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Controller\\DashboardController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:31:09.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T08:56:48.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:51:33.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\Account.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\Account.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\Account.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\Account.razor",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T04:53:57.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Repository\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Repository\\DashboardRepository.cs",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Repository\\DashboardRepository.cs",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Repository\\DashboardRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwFwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:33:25.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\appsettings.json",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\appsettings.json",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\appsettings.json",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T06:59:40.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T04:36:49.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\App.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\App.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\App.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\App.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T10:57:34.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OracleConfig.cs",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Database\\OracleConfig.cs",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Database\\OracleConfig.cs",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Database\\OracleConfig.cs",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Database\\OracleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:08:16.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\Routes.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Routes.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:39:11.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\wwwroot\\app.css",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\wwwroot\\app.css",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T09:09:53.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:39:21.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\_Imports.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\_Imports.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:49:37.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T10:56:07.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:48:15.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserAccountModel.cs",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Models\\ViewModels\\UserAccountModel.cs",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Models\\ViewModels\\UserAccountModel.cs",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Models\\ViewModels\\UserAccountModel.cs",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Models\\ViewModels\\UserAccountModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:29:59.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Models\\Entities\\UserAccount.cs",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\Models\\Entities\\UserAccount.cs",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\Models\\Entities\\UserAccount.cs",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\Models\\Entities\\UserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:29:25.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "C1_Blazor_Demo_DotNet8\\appsettings.Development.json",
+              "ToolTip": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\appsettings.Development.json",
+              "RelativeToolTip": "C1_Blazor_Demo_DotNet8\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T07:06:20.58Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

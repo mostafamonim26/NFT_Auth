@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\C1_Blazor_Demo_DotNet8.bundle.scp.css",
+      "PackagePath": "staticwebassets\\C1_Blazor_Demo_DotNet8.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\C1_Blazor_Demo_DotNet8\\C1_Blazor_Demo_DotNet8\\wwwroot\\linkon.svg",
+      "PackagePath": "staticwebassets\\linkon.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.C1_Blazor_Demo_DotNet8.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.C1_Blazor_Demo_DotNet8.props",
+      "PackagePath": "build\\C1_Blazor_Demo_DotNet8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.C1_Blazor_Demo_DotNet8.props",
+      "PackagePath": "buildMultiTargeting\\C1_Blazor_Demo_DotNet8.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.C1_Blazor_Demo_DotNet8.props",
+      "PackagePath": "buildTransitive\\C1_Blazor_Demo_DotNet8.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\C1_Blazor_Demo_DotNet8.props" />
+</Project>
